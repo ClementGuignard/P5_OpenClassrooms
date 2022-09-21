@@ -1,0 +1,1 @@
+A school project from OpenClassrooms formation we need to use native JS to display the front-end
